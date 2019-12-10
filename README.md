@@ -1,5 +1,5 @@
-# network-ninja - A network TShoot Docker Image
-A Docker image which contains multiple helpful network troubleshooting packages. We use this image inside GNS3 labs.
+# security-ninja - A security TShoot Docker Image
+A Docker image which contains multiple helpful network and security packages. We use this image inside GNS3 labs.
 
 Installed packages:
 ```bash
